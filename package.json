@@ -1,0 +1,16 @@
+{
+  "name": "penjs",
+  "version": "0.1.0",
+  "dependencies": {
+    "coffeescript": "^2.7.0",
+    "grunt": "^1.5.3",
+    "jquery": "^3.6.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.12.7",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-testem": "^0.5.22",
+    "sinon": "^14.0.1"
+  }
+}
